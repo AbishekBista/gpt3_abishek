@@ -17,8 +17,8 @@ const featuresData = [
   },
   {
     title: 'Medical Diagnosis Assistant',
-    text: 'Transforming Healthcare: GPT-3 as a Medical Diagnosis Assistant"
-    Subtitle: "Exploring GPT-3's potential in aiding medical professionals with accurate diagnoses, analyzing symptoms, suggesting treatments, and advancing patient care through intelligent assistance.'
+    text: 'Transforming Healthcare: GPT-3 as a Medical Diagnosis Assistant',
+    Subtitle: "Exploring GPT-3's potential in aiding medical professionals with accurate diagnoses, analyzing symptoms, suggesting treatments, and advancing patient care through intelligent assistance."
   }
 ]
 
