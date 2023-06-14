@@ -4,20 +4,21 @@ import { Feature } from '../../components'
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly ',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Creative Writing Assistant',
+    text: 'Exploring how GPT-3 assists writers in generating innovative storylines, characters, and immersive narratives, revolutionizing the creative writing process.'
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.'
+    title: 'Virtual Customer Support Agent',
+    text: 'Examining the seamless integration of GPT-3 in customer service, providing personalized assistance, resolving queries, and enhancing customer satisfaction.'
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.'
+    title: "Breaking Barriers: GPT-3's Language Translation Prowess",
+    text: "Investigating GPT-3's exceptional language translation capabilities, enabling accurate and contextually nuanced translations across various languages, revolutionizing global communication."
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.'
+    title: 'Medical Diagnosis Assistant',
+    text: 'Transforming Healthcare: GPT-3 as a Medical Diagnosis Assistant"
+    Subtitle: "Exploring GPT-3's potential in aiding medical professionals with accurate diagnoses, analyzing symptoms, suggesting treatments, and advancing patient care through intelligent assistance.'
   }
 ]
 
