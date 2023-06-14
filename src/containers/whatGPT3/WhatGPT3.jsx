@@ -7,7 +7,7 @@ const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-feature">
         <Feature 
           title="What is GPT-3"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. "
+          text="GPT-3, or Generative Pre-trained Transformer 3, is a state-of-the-art language model developed by OpenAI. With 175 billion parameters, it possesses remarkable natural language processing capabilities. GPT-3 can generate human-like text, answer questions, translate languages, write code, and perform various other language-related tasks, revolutionizing the field of AI-driven communication."
         />
       </div>
       <div className="gpt3__whatgpt3-heading">
@@ -21,13 +21,13 @@ const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-container">
         <Feature 
         title="Chatbots"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."/>
+        text="Conversational, interactive, knowledge-based, context-aware, language understanding, problem-solving, customer support, personalization, natural language processing, and continuous learning."/>
         <Feature
         title="Knowledgebase"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b " />
+        text="GPT-3 has a vast knowledge base encompassing a wide range of topics, including general knowledge, specific domains, historical events, scientific concepts, cultural references, and more." />
         <Feature
         title="Education"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+        text="GPT-3's education involves pre-training on a large corpus of text from the internet, followed by fine-tuning on specific tasks to enhance its understanding, language generation, and contextual comprehension abilities." />
       </div>
     </div>
   )
